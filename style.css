@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: rgb(192, 189, 197);
+    background-color: rgb(3, 3, 3);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
 }
@@ -33,7 +33,7 @@ body {
 }
 
 .titulo-principal span {
-    color: lime;
+    color: rgb(115, 124, 115);
 }
 
 
